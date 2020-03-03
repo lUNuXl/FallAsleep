@@ -1,0 +1,8 @@
+name: FallAsleep
+version: ${project.version}
+main: pl.smiesznadomena.fallasleep.FallAsleep
+api-version: 1.13
+prefix: FallAsleep
+authors: [UNuX]
+description: When 1/3 of the players is sleeping the time is changed to day
+website: https://smiesznadomena.pl
